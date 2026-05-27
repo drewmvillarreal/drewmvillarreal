@@ -18,7 +18,7 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://linkedin.com/in/a-villarreal-ma
 
 <!--
 **drewmvillarreal/drewmvillarreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
